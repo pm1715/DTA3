@@ -23,7 +23,7 @@ public class Grade_5 implements education{
     	System.out.println("Enter marks of Fourth Subject (out of 100) :");
     	mark4=sc.nextInt();
 	       return ((mark1+mark2+mark3+mark4)/400)*100;
-			
+//comment 1//			
 		}
 
 }
